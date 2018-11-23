@@ -1,0 +1,12 @@
+{
+    "name": "DiceBot",
+    "version": "1.0.0",
+    "description": "Bot to roll dice for members",
+    "main": "bot.js",
+    "author": "Justin Hadden",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.1.0"
+    }
+}
